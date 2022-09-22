@@ -1,0 +1,47 @@
+# Generated files
+.idea/**/contentModel.xml
+# IntelliJ
+out/
+.idea/
+*.iml
+*.iws
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+.vscode/*
+# Maven
+log/
+target/
+#testng
+
+
+.ant-targets*
+.classpath
+.gradle
+.idea
+*.ipr
+*.iws
+*.iml
+.project
+.settings
+/_eclipse/
+/local.properties
+build
+eclipse-build
+ivy*
+javadocs
+lib
+maven-testng-plugin-1.2.jar
+nb-configuration.xml
+out
+src/generated
+target
+test-output
+test-output-tests
+testng.iml
+z_build
+.DS_Store
+outputDir/
+**/Version.java
